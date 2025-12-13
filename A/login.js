@@ -5,6 +5,9 @@ if(a>0){
 else if(a=10){
     console.log("a is 10");
 }
-else{
+else if(true){
     console.log("a is negative");
+}
+else{
+    console.log("a is zero");
 }
